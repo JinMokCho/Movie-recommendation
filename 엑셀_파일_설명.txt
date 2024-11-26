@@ -1,0 +1,4 @@
+데이터 설명
+
+TMDB_movie_dataset_v11은 raw 데이터이고, 
+data_file은 전처리 후 생성된 데이터입니다.
